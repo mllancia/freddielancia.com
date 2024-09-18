@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" style="text-align: center; color:pink; size:18"> 
+    <head>
+        <title>Data</title>
+    </head>
+    <link rel="stylesheet" href="topnavstyle.css">
+    <div class="topnav">
+        <a href="index.html">Home</a>
+        <a href="Me.html">Me</a>
+        <a class="active" href="Data.html">Data</a>
+        <a href="Podcast.html">Podcast</a>
+        <a href="Writing.html">Writing</a>
+        <a href="Contact.html">Contact</a>
+    </div>
+    <body style="background-color:black;">
+        <h1>Experience Working as a Data Scientist for Sustainable Start Ups</h1>
+        <p>Think I might be of assistance on your project?</p>
+        <p>Don't hesitate to reach out and start a conversation!</p>
+        <p>I don't bite! (But my Python might:P)</p>
+        <a href="https://www.linkedin.com/in/frederick-lancia-b99598159/">
+            <img src="images/resumelogos.pdf" width="1024" class="img-fluid" alt="Podcast Cover Photo">
+        </a>
+        <p>Starting with my greatest achievements...</p>
+        <p>LEAD DATA SCIENTIST AT XYLO SYSTEMS                      SYDNEY, AUSTRALIA, OCTOBER 2022 - AUGUST 2023
+</p>
+        <p>As a team of 3, we built an AI powered platform for modeling businesses’ biodiversity impacts.</p>
+        <p>My greatest achievement was building the data pipeline. Data from a range of sources and formats was merged to seamless front end data visualization.</p>
+        <p>Managed and designed the product with a focus on our data vision.</p>
+        <p>Built individualized statistical environmental reports for clients.</p>
+        <p>Wrote our data ethics policy.</p>
+        <p>Conducted interviews for The Nature Positive Network Podcast.</p>
+        <p>MACHINE LEARNING DATA SCIENTIST AT HUNOME      HELSINKI, FINLAND, AUGUST 2021 - OCTOBER 2022</p>
+        <p>I lead and defined data and product strategies.</p>
+        <p>Wrote a Data Ethics Policy.</p>
+        <p>Wrote and presented our Data Value for Investors.</p>
+        <p>Wrote articles about data potential of the product.</p>
+        <p>Used innovative data science techniques to gain valuable insights from complex datastructures.</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p>And now sorted by most recent...</p>
+        <p></p>
+        <a href="https://www.thepostdefinitionspodcast.com" style="color:pink">
+            <p>Continue to Linkedin.</p>
+        </a>
+    </body>
+</html> 
